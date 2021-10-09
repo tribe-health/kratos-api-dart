@@ -1,0 +1,18 @@
+# kratos_api.model.PluginSettings
+
+## Load the model package
+```dart
+import 'package:kratos_api/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**args** | **BuiltList&lt;String&gt;** | args | 
+**devices** | [**BuiltList&lt;PluginDevice&gt;**](PluginDevice.md) | devices | 
+**env** | **BuiltList&lt;String&gt;** | env | 
+**mounts** | [**BuiltList&lt;PluginMount&gt;**](PluginMount.md) | mounts | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
